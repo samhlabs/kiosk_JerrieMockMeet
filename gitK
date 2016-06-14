@@ -1,4 +1,4 @@
 #! /bin/sh
 
-cd /media/PiShare/Git/kiosk_JerrieMockWorld/
+cd /media/PiShare/Git/kiosk_JerrieMockMeet/
 git pull
